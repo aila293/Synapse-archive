@@ -14,8 +14,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
         this.className += " selected";    
                 
         if (this.id=="all"){
-            $(".title").show();
-            $("a.wp-image-1086").show();
+            $(".title").slideDown();
+            $("a.wp-image-1086").slideDown();
             $("a.wp-image-1086").each(function(i, el){
                 if (alignments[i]){
                     $(this).removeClass("alignright").addClass("alignleft");
@@ -24,10 +24,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 }
             });
         } else {
-            $(".title").hide();
-            $("a.wp-image-1086").hide();
+            
+            
+            $(".title").slideUp();
+            $("a.wp-image-1086").slideUp();
+            
             var selector = "a.wp-image-1086."+this.id;
-            $(selector).show().each(function(i,el){
+            $(selector).slideDown().each(function(i,el){
                 if (i%2==0){
                     $(this).removeClass("alignright").addClass("alignleft");
                 } else {

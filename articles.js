@@ -8,7 +8,7 @@ var articles = {
         "byline": "Liz Crampton",
         "link": "https://synapse.atavist.com/achievement-gap",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/04/well.jpg)",
-        "tags": "university"
+        "tags": "campus education"
         },
 
         {
@@ -17,7 +17,7 @@ var articles = {
         "byline": "Camila Molina",
         "link": "https://synapse.atavist.com/duallanguage",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~dsc0184-1430106231-56.jpg )",
-        "tags": "local"
+        "tags": "community education"
         },
 
         {
@@ -26,7 +26,7 @@ var articles = {
         "byline": "Jackson Knapp",
         "link": "https://synapse.atavist.com/mama-dips",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/04/mamad.jpeg)",
-        "tags": ""
+        "tags": "community"
         },
 
         {
@@ -35,15 +35,15 @@ var articles = {
         "byline": "Sarah Niss",
         "link": "https://synapse.atavist.com/game-face",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img2291-1430063972-100.jpg )",
-        "tags": ""
+        "tags": "campus sports"
         },
 
         {
         "title": "Gum",
-        "subtitle": "",
+        "subtitle": "How Alzheimer's damages a mind, but not a memory",
         "byline": "Dylan Howlett",
         "link": "https://synapse.atavist.com/gum",
-        "img": "",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/03/HowlettWest_22.jpeg)",
         "tags": ""
         }
     ],
@@ -52,25 +52,25 @@ var articles = {
     [
         {
         "title": "Marathon",
-        "subtitle": "",
+        "subtitle": "What goes through a runner's mind in 26.2 miles",
         "byline": "Emily Overcarsh",
         "link": "https://synapse.atavist.com/marathon",
-        "img": "",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/10/marathon.jpg)",
         "tags": ""
         },
 
         {
         "title": "Sister South, Principal",
-        "subtitle": "",
+        "subtitle": "Navigating the halls of a Southern Catholic school as a non-Catholic student",
         "byline": "Emily Byrd",
         "link": "https://synapse.atavist.com/sister_south",
-        "img": "",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/03/SCAN0052.jpg)",
         "tags": ""
         },
 
         {
         "title": "Coleslaw",
-        "subtitle": "",
+        "subtitle": "One writer's journey to the heart of coleslaw wrestling, and how it taught him about where he grew up",
         "byline": "Rob Harms",
         "link": "https://synapse.atavist.com/coleslaw_wrestling",
         "img": "",
@@ -79,11 +79,11 @@ var articles = {
 
         {
         "title": "Franklin",
-        "subtitle": "",
+        "subtitle": "A look at how the landmark has changed over the years",
         "byline": "Chris Conway",
         "link": "https://synapse.atavist.com/franklin_then_and_now",
-        "img": "",
-        "tags": ""
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/10/franklin.jpg)",
+        "tags": "multimedia"
         }
     ],
     
@@ -95,7 +95,7 @@ var articles = {
         "byline": "Jordan Bailey",
         "link": "https://synapse.atavist.com/aaadhistory",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/BSM5.jpg)",
-        "tags": ""
+        "tags": "campus"
         },
 
         {
@@ -104,7 +104,7 @@ var articles = {
         "byline": "Liz Crampton",
         "link": "https://synapse.atavist.com/guardians",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~hemlockscon-1424191674-89.jpg )",
-        "tags": ""
+        "tags": "science"
         },
 
         {
@@ -112,8 +112,8 @@ var articles = {
         "subtitle": "",
         "byline": "Carolyn Bahar",
         "link": "https://synapse.atavist.com/boardofgovernors",
-        "img": "",
-        "tags": ""
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/BOG_infographic-02.png)",
+        "tags": "education multimedia"
         },
 
         {
@@ -122,7 +122,7 @@ var articles = {
         "byline": "Emily Byrd",
         "link": "https://synapse.atavist.com/rewritingthecode",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/ssIMG_5367.jpg)",
-        "tags": ""
+        "tags": "education science"
         },
 
         {
@@ -131,15 +131,15 @@ var articles = {
         "byline": "Rob Harms",
         "link": "https://synapse.atavist.com/jaysmith",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/sIMG_5353.jpg)",
-        "tags": ""
+        "tags": "community"
         },
 
         {
-        "title": "Column",
+        "title": "On Being One Community",
         "subtitle": "",
         "byline": "Layla Quran",
         "link": "https://synapse.atavist.com/onecommunity",
-        "img": "",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/null.jpg)",
         "tags": ""
         },
 
@@ -149,7 +149,7 @@ var articles = {
         "byline": "Emily Hackeling",
         "link": "https://synapse.atavist.com/startups",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/DSC_03321.jpg)",
-        "tags": ""
+        "tags": "campus"
         },
 
         {
@@ -158,7 +158,7 @@ var articles = {
         "byline": "Sarah Niss",
         "link": "https://synapse.atavist.com/tuition",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/WILSONSYNAPSE5.jpg)",
-        "tags": ""
+        "tags": "campus education"
         },
 
         {
@@ -167,16 +167,16 @@ var articles = {
         "byline": "Megan Cassella",
         "link": "https://synapse.atavist.com/church",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/11/1102_littlechurch_conway025.jpg)",
-        "tags": ""
+        "tags": "community"
         },
 
         {
         "title": "College Catch-22",
-        "subtitle": "",
+        "subtitle": "When it comes to handling students whose behavior is self-threatening, universities are forced to make tough calls",
         "byline": "Caitlin McCabe",
         "link": "https://synapse.atavist.com/collegecatch22",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/catch22.png)",
-        "tags": "University"
+        "tags": "campus science"
         }
     ],
     
@@ -188,16 +188,16 @@ var articles = {
         "byline": "Rob Harms and Dylan Howlett",
         "link": "https://synapse.atavist.com/gio",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~dsc1907-1418917882-25.jpg )",
-        "tags": ""
+        "tags": "sports"
         },
 
         {
         "title": "Undocumented but Undaunted",
-        "subtitle": "In the college town where they grew up, young Hispanic immigrants come together to find opportunity and community.",
+        "subtitle": "In the college town where they grew up, young Hispanic immigrants come together to find opportunity and community",
         "byline": "Rachel Herzog",
         "link": "https://synapse.atavist.com/undocumented",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img4570cv-1418002908-8.jpg )",
-        "tags": ""
+        "tags": "community"
         },
 
         {
@@ -206,7 +206,7 @@ var articles = {
         "byline": "Amy Tsai",
         "link": "https://synapse.atavist.com/fencing",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img3745-1417810508-81.jpg )",
-        "tags": ""
+        "tags": "sports"
         },
 
         {
@@ -215,7 +215,7 @@ var articles = {
         "byline": "Sarah Niss",
         "link": "https://synapse.atavist.com/veterans",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~studentvets-1417918845-20.jpg )",
-        "tags": ""
+        "tags": "campus"
         }
     ],
     
@@ -236,7 +236,7 @@ var articles = {
         "byline": "Rob Harms",
         "link": "https://synapse.atavist.com/homeless",
         "img": "",
-        "tags": ""
+        "tags": "community"
         },
 
         {
@@ -245,7 +245,7 @@ var articles = {
         "byline": "Rob Harms",
         "link": "https://synapse.atavist.com/patrickewing",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~patrickewin-1412367761-2.jpg )",
-        "tags": ""
+        "tags": "sports"
         },
 
         {
@@ -254,7 +254,7 @@ var articles = {
         "byline": "Emily Byrd",
         "link": "https://synapse.atavist.com/chilling-effect",
         "img": "",
-        "tags": ""
+        "tags": "campus science"
         },
 
         {
@@ -263,7 +263,7 @@ var articles = {
         "byline": "Liz Crampton",
         "link": "https://synapse.atavist.com/tfa",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/11/1014_TFA_conway001.jpg)",
-        "tags": ""
+        "tags": "education"
         },
 
         {
@@ -284,7 +284,7 @@ var articles = {
         "byline": "Chelsey Dulaney",
         "link": "https://synapse.atavist.com/sealings",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img8926105-1409081113-13.jpg )",
-        "tags": ""
+        "tags": "campus community"
         },
 
         {
@@ -293,7 +293,7 @@ var articles = {
         "byline": "Liz Crampton",
         "link": "https://synapse.atavist.com/folt",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~foltceremon-1412295486-6.jpg )",
-        "tags": ""
+        "tags": "campus education"
         },
 
         {
@@ -302,7 +302,7 @@ var articles = {
         "byline": "Claire McNeill",
         "link": "https://synapse.atavist.com/towing",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/09/IMG_8519.jpg)",
-        "tags": ""
+        "tags": "community"
         },
 
         {
@@ -311,7 +311,7 @@ var articles = {
         "byline": "Caitlin McCabe",
         "link": "https://synapse.atavist.com/scandal",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/TOC-Scandal.jpg)",
-        "tags": ""
+        "tags": "campus education"
         },
 
         {
@@ -320,7 +320,7 @@ var articles = {
         "byline": "Claire McNeill",
         "link": "https://synapse.atavist.com/hisownhike",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/Massachusetts.jpg)",
-        "tags": ""
+        "tags": "community campus"
         }, 
         
         {
@@ -329,7 +329,7 @@ var articles = {
         "byline": "Claire McNeill",
         "link": "https://synapse.atavist.com/depression",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/quotecrop.jpg)",
-        "tags": ""
+        "tags": "campus science"
         }
     ]
     
