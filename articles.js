@@ -3,6 +3,15 @@ var articles = {
     "April 2015": 
     [
         {
+        "title": "Game Face",
+        "subtitle": "Student-athletes learn to care for every part of the body, but the mind is often overlooked",
+        "byline": "Sarah Niss",
+        "link": "https://synapse.atavist.com/game-face",
+        "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img2291-1430063972-100.jpg )",
+        "tags": "campus sports"
+        },
+        
+        {
         "title": "Closing the Achievement Gap",
         "subtitle": "After a turbulent year, the UNC-system is wondering what's next",
         "byline": "Liz Crampton",
@@ -30,15 +39,6 @@ var articles = {
         },
 
         {
-        "title": "Game Face",
-        "subtitle": "Student-athletes learn to care for every part of the body, but the mind is often overlooked",
-        "byline": "Sarah Niss",
-        "link": "https://synapse.atavist.com/game-face",
-        "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img2291-1430063972-100.jpg )",
-        "tags": "campus sports"
-        },
-
-        {
         "title": "Gum",
         "subtitle": "How Alzheimer's damages a mind, but not a memory",
         "byline": "Dylan Howlett",
@@ -49,22 +49,22 @@ var articles = {
     ],
     
     "March 2015": 
-    [
-        {
-        "title": "Marathon",
-        "subtitle": "What goes through a runner's mind in 26.2 miles",
-        "byline": "Emily Overcarsh",
-        "link": "https://synapse.atavist.com/marathon",
-        "img": "url(http://synapsemag.org/wp-content/uploads/2015/10/marathon.jpg)",
-        "tags": ""
-        },
-
+    [   
         {
         "title": "Sister South, Principal",
         "subtitle": "Navigating the halls of a Southern Catholic school as a non-Catholic student",
         "byline": "Emily Byrd",
         "link": "https://synapse.atavist.com/sister_south",
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/03/SCAN0052.jpg)",
+        "tags": ""
+        },
+        
+        {
+        "title": "Marathon",
+        "subtitle": "What goes through a runner's mind in 26.2 miles",
+        "byline": "Emily Overcarsh",
+        "link": "https://synapse.atavist.com/marathon",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/10/marathon.jpg)",
         "tags": ""
         },
 
@@ -97,6 +97,16 @@ var articles = {
         "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/BSM5.jpg)",
         "tags": "campus"
         },
+        
+        {
+        "title": "BOG",
+        "subtitle": "",
+        "byline": "Carolyn Bahar",
+        "link": "https://synapse.atavist.com/boardofgovernors",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/BOG_infographic-02.png)",
+        "tags": "education multimedia", 
+        "feature": true
+        },
 
         {
         "title": "Guardians of the Forest",
@@ -105,15 +115,6 @@ var articles = {
         "link": "https://synapse.atavist.com/guardians",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~hemlockscon-1424191674-89.jpg )",
         "tags": "science"
-        },
-
-        {
-        "title": "BOG",
-        "subtitle": "",
-        "byline": "Carolyn Bahar",
-        "link": "https://synapse.atavist.com/boardofgovernors",
-        "img": "url(http://synapsemag.org/wp-content/uploads/2015/02/BOG_infographic-02.png)",
-        "tags": "education multimedia"
         },
 
         {
@@ -182,14 +183,6 @@ var articles = {
     
     "December 2014": 
     [
-        {
-        "title": "RUN GIO 2012",
-        "subtitle": "An oral history of Giovani Bernard's punt return against N.C. State",
-        "byline": "Rob Harms and Dylan Howlett",
-        "link": "https://synapse.atavist.com/gio",
-        "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~dsc1907-1418917882-25.jpg )",
-        "tags": "sports"
-        },
 
         {
         "title": "Undocumented but Undaunted",
@@ -198,6 +191,15 @@ var articles = {
         "link": "https://synapse.atavist.com/undocumented",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img4570cv-1418002908-8.jpg )",
         "tags": "community"
+        },
+        
+        {
+        "title": "RUN GIO 2012",
+        "subtitle": "An oral history of Giovani Bernard's punt return against N.C. State",
+        "byline": "Rob Harms and Dylan Howlett",
+        "link": "https://synapse.atavist.com/gio",
+        "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~dsc1907-1418917882-25.jpg )",
+        "tags": "sports"
         },
 
         {
@@ -222,21 +224,22 @@ var articles = {
     "November 2014": 
     [
         {
+        "title": "Homeless and Need Your Help Thank You",
+        "subtitle": "",
+        "byline": "Rob Harms",
+        "link": "https://synapse.atavist.com/homeless",
+        "img": "",
+        "tags": "community", 
+        "feature": true
+        },
+        
+        {
         "title": "'Distressed, but not in despair'",
         "subtitle": "After two years of Faith Hedgepeth's murder going unsolved, fresh grief lingers among her family and friends. ",
         "byline": "Brooke Eller",
         "link": "https://synapse.atavist.com/hedgepeth",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/11/1004_hedgepeth_crampton010.jpg)",
         "tags": ""
-        },
-
-        {
-        "title": "Homeless and Need Your Help Thank You",
-        "subtitle": "",
-        "byline": "Rob Harms",
-        "link": "https://synapse.atavist.com/homeless",
-        "img": "",
-        "tags": "community"
         },
 
         {
@@ -279,12 +282,23 @@ var articles = {
     "October 2014": 
     [
         {
+        "title": "Depression in the Southern Part of Heaven",
+        "subtitle": "",
+        "byline": "Claire McNeill",
+        "link": "https://synapse.atavist.com/depression",
+        "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/quotecrop.jpg)",
+        "tags": "campus science", 
+        "feature": true
+        }, 
+        
+        {
         "title": "In the Shadow of the Sealings",
         "subtitle": "Information related to UNC student Faith Hedgepeth's 2012 murder remains sealed by court order",
         "byline": "Chelsey Dulaney",
         "link": "https://synapse.atavist.com/sealings",
         "img": "url(https://synapse.atavist.com/data/files/organization/7429/image/derivative/scale~1200x1200~img8926105-1409081113-13.jpg )",
-        "tags": "campus community"
+        "tags": "campus community",
+        "feature": true
         },
 
         {
@@ -321,16 +335,8 @@ var articles = {
         "link": "https://synapse.atavist.com/hisownhike",
         "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/Massachusetts.jpg)",
         "tags": "community campus"
-        }, 
-        
-        {
-        "title": "Depression in the Southern Part of Heaven",
-        "subtitle": "",
-        "byline": "Claire McNeill",
-        "link": "https://synapse.atavist.com/depression",
-        "img": "url(http://synapsemag.org/wp-content/uploads/2014/10/quotecrop.jpg)",
-        "tags": "campus science"
         }
+
     ]
     
 };
